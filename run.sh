@@ -1,1 +1,2 @@
 
+python ./code/model.py
