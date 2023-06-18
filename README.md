@@ -5,7 +5,7 @@ Self implementation (leanring purpose) of GraphSAGE (https://proceedings.neurips
 
 (Tensorflow) https://github.com/williamleif/GraphSAGE
 
-In this torch version, I have added MeanAggregator, MaxAggregator, GCNAggregator, MaxPoolAggregator, MeanPoolAggregator and TwoMaxLayerPoolingAggregator. SeqAggregator (LSTM) is to be added.
+In this torch version, I have added **MeanAggregator**, **MaxAggregator**, **GCNAggregator**, **MaxPoolAggregator**, **MeanPoolAggregator** and **TwoMaxLayerPoolingAggregator**. SeqAggregator (LSTM) is to be added.
 
 
 
