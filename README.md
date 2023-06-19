@@ -1,5 +1,5 @@
 # GraphSAGE_pytorch
-Self implementation (learning purpose) of GraphSAGE (https://proceedings.neurips.cc/paper_files/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html) based on 2 repos: 
+Implementation of GraphSAGE (https://proceedings.neurips.cc/paper_files/paper/2017/hash/5dd9db5e033da9c6fb5ba83c7a7ebea9-Abstract.html) based on 2 repos: 
 
 (Pytorch) https://github.com/williamleif/graphsage-simple/
 
